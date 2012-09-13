@@ -66,7 +66,7 @@ http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-Admin.png
 </ul>
 
 <img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-User.png" width="90%" />
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-User.png
+<img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-User.png" width="90%" />
 
 ==3.2 Install procedure==
 The procedure to install Activity Stats is the standard Alfresco procedure to install an AMP extension:
