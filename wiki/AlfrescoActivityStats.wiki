@@ -65,7 +65,7 @@ http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-Admin.png
 <li>Actitivity Stats was tested on Alfresco 3.4.d Community.</li>
 </ul>
 
-<img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-User.png" width="500px" />
+<img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-User.png" width="90%" />
 http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-User.png
 
 ==3.2 Install procedure==
