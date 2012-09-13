@@ -62,6 +62,7 @@ The link Full report opens a full page showing activity summary for all sites, e
 http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-Admin.png
 http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-Admin.png
 =3 Installation=
+<a href="#Installation" class="section_anchor"></a>
 ==3.1 System requirements==
 <ul>
 <li>Actitivity Stats module is designed for Alfresco 3.4.x Enterprise or Community.</li>
