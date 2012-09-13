@@ -1,5 +1,5 @@
 #summary Alfresco activity stats.
-#sidebar * [AlfrescoActivityStats Alfresco Activity Stats]
+* [AlfrescoActivityStats Alfresco Activity Stats]
   * [AlfrescoActivityStats#Introduction introduction]
   * [AlfrescoActivityStats#Features Features]
   * [AlfrescoActivityStats#Installation Installation]
