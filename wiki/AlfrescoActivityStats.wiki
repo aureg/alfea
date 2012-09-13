@@ -2,7 +2,7 @@
 * [AlfrescoActivityStats Alfresco Activity Stats]
   * [AlfrescoActivityStats#Introduction introduction]
   * [AlfrescoActivityStats#Features Features]
-  * [AlfrescoActivityStats#Installation Installation]
+  * [AlfrescoActivityStats#3_Installation Installation]
    
 = 1 Introduction=
 <p>
