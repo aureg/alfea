@@ -1,6 +1,5 @@
 #summary Alfresco activity stats.
-Legend
-<wiki:toc />
+
 = 1 Introduction=
 <p>
 The module *Activity Stats* is a simple activity reporting tool for Alfresco Share.
@@ -103,3 +102,6 @@ Note that later Alfresco releases (from 3.5.x branch) will enable the change of 
   * Project home on ALFEA website: www.alfea-consulting.be
 =6 Licence=
 This project is published under the terms of GPL (GNU Public Licence).
+
+=Legend=
+<wiki:toc />
