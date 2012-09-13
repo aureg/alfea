@@ -1,7 +1,6 @@
 #summary Alfresco activity stats.
-
 #sidebar * [AlfrescoActivityStats Alfresco Activity Stats]
-   * [Introduction introduction]
+   * [AlfrescoActivityStats#Introduction introduction]
    
 = 1 Introduction=
 <p>
