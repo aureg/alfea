@@ -43,7 +43,7 @@ This page displays:
  </li>
 </ul>
 
-=2.2 Administrators features=
+==2.2 Administrators features==
 <p>
 Administrators will have a few additionnal features.
 </p>
