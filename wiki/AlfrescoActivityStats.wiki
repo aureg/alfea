@@ -1,0 +1,95 @@
+#summary Alfresco activity stats.
+
+= 1 Introduction=
+<p>
+The module *Activity Stats* is a simple activity reporting tool for Alfresco Share.
+</p>
+<p>
+It gives to the Alfresco administrator a easy way to monitor the user connections and activities. An administrator can easily send a message to all currently connected users, i.e.to warn them before a maintenance operation.
+</p>
+<p>
+It also gives to all regular users a graphical overview of what happened in their sites of interest.
+</p>
+<p>
+The module *Activity Stats* was designed with ease of use and simplicity as a primary goal. Just install and add it to your dashboard to give it a try.
+</p>
+<p>
+The information displayed is based on the built-in Alfresco activity feeds. So no additionnal content model or service (such as the Audit service) needs to be activated, and the general performance of the Alfresco server is thus not decreased.
+</p>
+<p>
+You could however want to fine control the maximal size and duration of activity feeds. If so, please refer to section *Error! Reference source not found.* further in this document.
+</p>
+
+=2 Features=
+==2.1 Regular features==
+<p>
+After installation, all Alfresco users have new available dashlet named *Activity Stats* to add to their personnal dashboard.
+</p>
+The dashlet displays :
+<ul>
+    <li>The number of current user connections</li>
+    <li>The number of today¡¦s activities in user sites</li>
+</ul>
+
+<p>
+The link Full report opens a full page showing activity summary for the user’s sites.
+</p>
+This page displays:
+<ul>
+ <li>My sites activity timeline: the number of activities by type and site for the selected period
+ </li>
+ <li>My sites activitiy overview: the pie chart of activities by site for the selected period
+ </li>
+</ul>
+
+=2.2 Administrators features=
+<p>
+Administrators will have a few additionnal features.
+</p>
+<p>
+On the Activity Stats dashlet, the action Email to the X connected users creates an email destinated to all connected users.
+</p>
+<p>
+The link Full report opens a full page showing activity summary for all sites, even those for which administrator is not member of.
+</p>
+
+=3 Installation=
+==3.1 System requirements==
+<ul>
+<li>Actitivity Stats module is designed for Alfresco 3.4.x Enterprise or Community.</li>
+<li>Actitivity Stats was tested on Alfresco 3.4.d Community.</li>
+</ul>
+
+==3.2 Install procedure==
+The procedure to install Activity Stats is the standard Alfresco procedure to install an AMP extension:
+
+  #1 Download the latest release from http://forge.alfresco.com/projects/activitystats
+  #2 Copy *activity-stats.jar* to `<`ALFRESCO>/tomcat/shared/lib/
+  #3 Copy *activity-stats.amp* to `<`ALFRESCO>/amps
+  #4 Run the apply_amps.bat (Windows) or apply_amps.sh (Linux) script.Note that the “ALFRESCO_HOME” environment variable should be configured correctly.
+  #5 Restart Alfresco server
+<p>
+After installation, a new dashlet is available in all users dashboard personalization.
+</p>
+=4 Configuration=
+<p>
+The information displayed by Activity Stats module Is based on built-in activity feeds. Some Alfresco properties control the maximal size and duration of activity feeds.
+</p>
+Default property values are quite low for activity reporting on a medium period: 
+{{{
+# Activity feed max size and max age (eg. 44640 mins = 31 days)
+
+activities.feed.max.size=100 
+activities.feed.max.age.mins=44640
+}}}
+
+In order to change default values, simply override those 2 properties in '<'ALFRESCO>\tomcat\shared\classes\alfresco-global.properties
+<p>
+Note that later Alfresco releases (from 3.5.x branch) will enable the change of these parameters directly from the administrator console.
+</p>
+
+=5 Links=
+  * Project home on Alfresco forge: http://forge.alfresco.com/projects/activitystats
+  * Project home on ALFEA website: www.alfea-consulting.be
+=6 Licence=
+This project is published under the terms of GPL (GNU Public Licence).
