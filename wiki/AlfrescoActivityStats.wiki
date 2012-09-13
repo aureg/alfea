@@ -1,3 +1,4 @@
+<wiki:toc />
 #summary Alfresco activity stats.
 = 1 Introduction=
 <p>
