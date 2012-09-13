@@ -30,7 +30,7 @@ The dashlet displays :
     <li>The number of current user connections</li>
     <li>The number of today¡¦s activities in user sites</li>
 </ul>
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Dashlet-User.PNG
+http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Dashlet-User.png
 
 <p>
 The link Full report opens a full page showing activity summary for the user’s sites.
@@ -50,13 +50,13 @@ Administrators will have a few additionnal features.
 <p>
 On the Activity Stats dashlet, the action Email to the X connected users creates an email destinated to all connected users.
 </p>
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Dashlet-Admin.PNG
+http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Dashlet-Admin.png
 
 <p>
 The link Full report opens a full page showing activity summary for all sites, even those for which administrator is not member of.
 </p>
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-Admin.PNG
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-Admin.PNG
+http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-Admin.png
+http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-Admin.png
 =3 Installation=
 ==3.1 System requirements==
 <ul>
@@ -64,8 +64,8 @@ http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-Admin.PNG
 <li>Actitivity Stats was tested on Alfresco 3.4.d Community.</li>
 </ul>
 
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-User.PNG
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-User.PNG
+http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-User.png
+http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-User.png
 
 ==3.2 Install procedure==
 The procedure to install Activity Stats is the standard Alfresco procedure to install an AMP extension:
