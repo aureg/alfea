@@ -1,8 +1,10 @@
 #summary Alfresco activity stats.
 * [AlfrescoActivityStats Alfresco Activity Stats]
-  * [AlfrescoActivityStats#Introduction introduction]
+  * [AlfrescoActivityStats#1_Introduction introduction]
   * [AlfrescoActivityStats#2_Features Features]
   * [AlfrescoActivityStats#3_Installation Installation]
+  * [AlfrescoActivityStats#4_Configuration Configuration]
+  * [AlfrescoActivityStats#5_Links Links]
    
 = 1 Introduction=
 <p>
