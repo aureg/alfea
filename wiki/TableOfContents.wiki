@@ -1,6 +1,7 @@
   * [AlfrescoActivityStats Alfresco Activity Stats]
     * [AlfrescoActivityStats#1_Introduction introduction]
     * [AlfrescoActivityStats#2_Features Features]
+      * [AlfrescoActivityStats#2.1_Regular_features 2.1 Regular features]
     * [AlfrescoActivityStats#3_Installation Installation]
     * [AlfrescoActivityStats#4_Configuration Configuration]
     * [AlfrescoActivityStats#5_Links Links]
