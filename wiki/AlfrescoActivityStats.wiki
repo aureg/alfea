@@ -1,7 +1,7 @@
 #summary Alfresco activity stats.
 
 #sidebar
-* [Articles HOWTO articles]
+* [AlfrescoActivityStats HOWTO articles]
    * [ArticlesXSS Web security]
    * [ArticlesDom DOM manipulation]
    * [ArticlesStyle CSS and style]
