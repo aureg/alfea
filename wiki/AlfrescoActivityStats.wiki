@@ -56,6 +56,7 @@ http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Dashlet-Admin.png
 The link Full report opens a full page showing activity summary for all sites, even those for which administrator is not member of.
 </p>
 <img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-Admin.png" width="700px" />
+
 <img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-Admin.png" width="700px" />
 =3 Installation=
 <a href="#Installation" class="section_anchor"></a>
@@ -66,6 +67,7 @@ The link Full report opens a full page showing activity summary for all sites, e
 </ul>
 
 <img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Timeline-User.png" width="700px" />
+
 <img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Overview-User.png" width="700px" />
 
 ==3.2 Install procedure==
@@ -79,7 +81,7 @@ The procedure to install Activity Stats is the standard Alfresco procedure to in
 <p>
 After installation, a new dashlet is available in all users dashboard personalization.
 </p>
-http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Dashlet-Selector.png
+<img src="http://alfea.googlecode.com/svn/wiki/images/Activity-Stats-Dashlet-Selector.png" width="700px" />
 =4 Configuration=
 <p>
 The information displayed by Activity Stats module Is based on built-in activity feeds. Some Alfresco properties control the maximal size and duration of activity feeds.
