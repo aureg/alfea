@@ -4,6 +4,8 @@
       * [AlfrescoActivityStats#2.1_Regular_features Regular features]
       * [AlfrescoActivityStats#2.2_Administrators_features Administrators features]
     * [AlfrescoActivityStats#3_Installation Installation]
+      * [AlfrescoActivityStats#3.1_System_requirements System requirements]
+
     * [AlfrescoActivityStats#4_Configuration Configuration]
     * [AlfrescoActivityStats#5_Links Links]
     * [AlfrescoActivityStats#6_Licence Licence]
