@@ -1,0 +1,4 @@
+jar.name=activity-stats.jar
+amp.name=activity-stats.amp
+alfresco.tomcat.dir=C:/Projects/ShareExtras/alfresco-community-3.4.d/tomcat/webapps/alfresco
+alfresco.sdk.server.dir=C:/dev_env/alfresco-community-sdk-3.4.d/lib/server
