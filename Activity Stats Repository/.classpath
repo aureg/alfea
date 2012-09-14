@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="source/java"/>
+	<classpathentry kind="src" path="test/java"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SDK AlfrescoEmbedded 3.4.dC"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

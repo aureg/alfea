@@ -1,0 +1,3 @@
+jar.name=activities-stats.jar
+alfresco.sdk.server.dir=C:/dev_env/alfresco-community-sdk-3.4.d/lib/server
+tomcat.home=C:/Projects/ShareExtras/alfresco-community-3.4.d/tomcat
