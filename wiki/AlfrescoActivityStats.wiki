@@ -73,7 +73,7 @@ The link Full report opens a full page showing activity summary for all sites, e
 ==3.2 Install procedure==
 The procedure to install Activity Stats is the standard Alfresco procedure to install an AMP extension:
 
-  #1 Download the latest release from http://forge.alfresco.com/projects/activitystats
+  #1 Download the latest release from https://code.google.com/p/alfea/downloads/detail?name=Activity-Stats-1.0.zip&can=2&q=
   #2 Copy *activity-stats.jar* to `<`ALFRESCO>/tomcat/shared/lib/
   #3 Copy *activity-stats.amp* to `<`ALFRESCO>/amps
   #4 Run the apply_amps.bat (Windows) or apply_amps.sh (Linux) script.Note that the “ALFRESCO_HOME” environment variable should be configured correctly.
