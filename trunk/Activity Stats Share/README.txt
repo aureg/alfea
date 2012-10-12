@@ -1,5 +1,5 @@
 Activities Stats dashlet and page for Alfresco Share
-====================================================
+=====================================================
 
 Author: ALFEA Consulting
 
