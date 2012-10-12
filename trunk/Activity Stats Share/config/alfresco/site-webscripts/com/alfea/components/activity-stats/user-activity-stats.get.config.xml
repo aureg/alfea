@@ -65,10 +65,8 @@
 		<activitytype id="org.alfresco.wiki.page-deleted" label="activity-stats.label.org.alfresco.wiki.page-deleted"/>
 
 		<!-- CMA activity types -->
-		<!--  TODO : to be activated 
 		<activitytype id="com.alfea.cma.case-created" label="activity-stats.label.com.alfea.cma.case-created"/>
 		<activitytype id="com.alfea.cma.case-closed" label="activity-stats.label.com.alfea.cma.case-closed"/>
-		<activitytype id="com.alfea.cma.case-reopened" label="activity-stats.label.com.alfea.cma.case-reopened"/>
-		-->
+		<activitytype id="com.alfea.cma.case-reopened" label="activity-stats.label.com.alfea.cma.case-reopened"/>		
 	</activitytypes>
 </config>
