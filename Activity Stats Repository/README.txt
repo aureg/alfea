@@ -20,5 +20,4 @@ Use ANT to generate the AMP file from the build script:
    ant -f build.xml
    
 Copy and rename build.properties.default to build.properties.
-Adapt properties depending your environment.
- 
+Adapt properties depending your environment. 
